@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surya</h1>
-<h3 align="center">I am a Fullstack Engineer @Walmart</h3>
+<h3 align="center">I am a Fullstack Engineer @JP Morgan Chase & Co.</h3>
 
-- 🌱 I’m currently learning **Generative AI**
-
-- 📝 I regularly write articles on [https://medium.com/@bansalsurya](https://medium.com/@bansalsurya)
+- 📝 I write articles on [https://medium.com/@bansalsurya](https://medium.com/@bansalsurya)
 
 - 💬 Ask me about **Fullstack Web and Mobile**
 
